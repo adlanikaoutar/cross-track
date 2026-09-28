@@ -1,6 +1,6 @@
 # Inter-Camera Person Tracking & Re-Identification
 
-## 📌 Overview
+##  Overview
 
 This project implements an **intelligent multi-camera person tracking and re-identification system** based on Computer Vision and Deep Learning.
 
@@ -12,7 +12,7 @@ The pipeline combines **YOLOv8 for person detection, BoT-SORT for multi-object t
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of the project are:
 
@@ -27,7 +27,7 @@ The main objectives of the project are:
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 ```text
                   ┌──────────────────┐
@@ -67,7 +67,7 @@ The main objectives of the project are:
 
 ---
 
-## 🔄 Processing Pipeline
+##  Processing Pipeline
 
 ### 1. Person Detection
 
@@ -153,7 +153,7 @@ These zones provide contextual information for cross-camera association and help
 
 ---
 
-## 🧩 Main Components
+##  Main Components
 
 | Component                   | Technology / Method        |
 | --------------------------- | -------------------------- |
@@ -170,7 +170,7 @@ These zones provide contextual information for cross-camera association and help
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 inter-camera-person-tracking/
@@ -205,7 +205,7 @@ inter-camera-person-tracking/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
@@ -235,7 +235,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the main application:
 
@@ -253,7 +253,7 @@ Before running the complete pipeline, configure the required:
 
 ---
 
-## 📊 Cross-Camera Identity Association
+##  Cross-Camera Identity Association
 
 The identity association process is based on a combination of multiple signals rather than a single similarity score.
 
@@ -276,7 +276,7 @@ This approach is designed to improve identity continuity when people move betwee
 
 ---
 
-## 📸 Results
+##  Results
 
 ### Camera Zones
 
@@ -290,7 +290,7 @@ This approach is designed to improve identity continuity when people move betwee
 
 ---
 
-## 🔒 Data & Privacy
+##  Data & Privacy
 
 This project was developed in the context of intelligent video surveillance.
 
@@ -308,7 +308,7 @@ Only non-sensitive source code, documentation, configuration examples and illust
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 ```text
 Python
@@ -326,7 +326,7 @@ Feature Matching
 
 ---
 
-## 🚀 Possible Improvements
+##  Possible Improvements
 
 Future improvements could include:
 
@@ -342,7 +342,7 @@ Future improvements could include:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Kaoutar Adlani**
 
@@ -351,9 +351,3 @@ Ingénieure d'État en Intelligence Artificielle
 **Focus:** Computer Vision · Deep Learning · Machine Learning · AI
 
 ---
-
-## 📄 License
-
-This project is intended for educational and portfolio purposes.
-
-Please verify the licensing terms of third-party models and libraries before redistributing their weights or derivative components.
